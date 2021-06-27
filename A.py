@@ -1,2 +1,1 @@
 surname = "Miksha"
-print(surname)
