@@ -1,1 +1,2 @@
 surname = "Miksha"
+print(surname)
